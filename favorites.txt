@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 chicken curry
 kfc chicken
 sweet
+=======
+tholi prema
+kushi
+tammudu
+>>>>>>> movies
